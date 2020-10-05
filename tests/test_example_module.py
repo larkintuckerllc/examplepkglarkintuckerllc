@@ -5,6 +5,8 @@ from examplepkglarkintuckerllc import example_module
 
 
 class TestExampleModule(unittest.TestCase):
+    """Test example module."""
+
     def test_hello(self):
         """Test hello."""
         expected = 'Hello World!'
