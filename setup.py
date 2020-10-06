@@ -21,5 +21,5 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     python_requires='>=3.8',
     url='https://github.com/larkintuckerllc/examplepkglarkintuckerllc',
-    version='0.0.1',
+    version='0.0.2',
 )
